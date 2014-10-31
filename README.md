@@ -31,14 +31,14 @@ Calculating Pool Volume
 5.	Click Calculate Volume or Press Alt + C.
  
 Calculating Hot Tub Volume
-	--Calculating Round Tub Volume
+	Calculating Round Tub Volume
 1.	Click “Hot Tubs” tab.
 2.	Click Round Tub button or Press Alt + R.
 3.	Enter Hot Tub Length.
 4.	Enter Hot Tub Depth.
 5.	Click Calculate Volume or Press Alt + C.
  
-	--Calculating Oval Tub Volume
+	Calculating Oval Tub Volume
 1.	Click “Hot Tubs” tab.
 2.	Click Oval Tub button or Press Alt + O.
 3.	Enter Hot Tub Length.
